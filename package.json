@@ -1,0 +1,25 @@
+{
+  "name": "oldie",
+  "version": "1.0.0",
+  "description": "market-place for oldtimers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizardoftomorrow/Oldie.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "pug",
+    "market-place"
+  ],
+  "author": "Oz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wizardoftomorrow/Oldie/issues"
+  },
+  "homepage": "https://github.com/wizardoftomorrow/Oldie#readme"
+}
